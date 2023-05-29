@@ -6,7 +6,7 @@ import Instagram from "../assets/Instagram";
 import automatic from "../assets/automatic.png";
 const FooterBanner = () => {
   return (
-    <div className="flex p-8">
+    <div className="flex p-4">
       <div className="flex w-4/12 justify-center gap-8">
         <a href="https://twitter.com/">
           <Twitter className="w-6" />

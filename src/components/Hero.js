@@ -10,7 +10,7 @@ const Hero = () => {
         backgroundRepeat: "no-repeat",
         width: "100%",
         backgroundSize: "cover",
-        height: "80vh",
+        height: "100vh",
       }}
     >
       <div className="flex justify-between items-center h-full">
